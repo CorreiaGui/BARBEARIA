@@ -1,2 +1,0 @@
-# BARBEARIA
- Primeiro projeto.
